@@ -20,6 +20,7 @@ body {
   place-content: center;
   min-height: 100vh;
   font-size: 13px;
+  background-color: var(--Light-grayish-blue);
   font-family: var(--ff-primary);
 }
 main {
