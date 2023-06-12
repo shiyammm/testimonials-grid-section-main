@@ -50,7 +50,7 @@ h1 {
   grid-column: span 2;
 }
 .bg-image {
-  background-image: url(./images/bg-pattern-quotation.svg);
+  background-image: url(images/bg-pattern-quotation.svg);
   background-position: right 5rem top;
   background-repeat: no-repeat;
 }
